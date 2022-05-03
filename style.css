@@ -1,0 +1,28 @@
+.travel_mainDiv
+{ 
+    border: 2px solid rgb(139, 62, 183);
+}
+.travel_mainDiv img
+{
+    width: 100%;
+}
+.travel_mainDiv h5, .travel_mainDiv p
+{
+margin: 25px;
+}
+.travel_mainDiv img
+{
+    width: 75%
+}
+.activity_text img
+{
+    width: 200%
+}
+ 
+
+
+
+
+
+
+
